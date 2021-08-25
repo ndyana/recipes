@@ -1,7 +1,7 @@
-#Recipes
+# Recipes
 
 I am practicing GitHub by adding new recipes that I would like to try out.
 
-Using Terminal to create.
+*Using Terminal to create.*
 
-Please recommend some recipes as well!
+Please recommend some ***delicious*** recipes as well!
