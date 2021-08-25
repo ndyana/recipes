@@ -1,4 +1,4 @@
-Banana Pancake
+### Banana Pancake
 
 1 1/2 cups (180g) all-purpose flour
 2 Tablespoons (25g) sugar (optional)
