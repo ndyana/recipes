@@ -1,8 +1,8 @@
-### Flour and Corn Tortillas
+# Flour and Corn Tortillas
 
 ## Flour Tortillas
 
-# Ingredients 
+### Ingredients 
 - 3 cups all-purpose flour 
 - 1 teaspoon kosher salt
 - 1 teaspoon baking powder
@@ -10,7 +10,7 @@
 - 1 cup warm water 
 
 Recipe by [The Cafe Sucre Farine](https://thecafesucrefarine.com/best-ever-homemade-flour-tortillas/).
-# Instructions
+### Instructions
 
 - Combine flour, salt and baking powder in a medium-size bowl. Using a sturdy silicone spatuala or a sturdy wooden spoon, mix dry ingredients until well combined.
 - Make a well in the center of the dry ingredients and add the oil and water. Stir well from the bottom up, until all dry ingredients are incorporated and the dough begins to come together and form a shaggy ball.
@@ -18,7 +18,7 @@ Recipe by [The Cafe Sucre Farine](https://thecafesucrefarine.com/best-ever-homem
 
 ## Corn Tortillas
 
-# Ingredients
+### Ingredients
 
 - 1 1/2 cups masa harina
 - 1/4 teaspoon salt
@@ -26,7 +26,7 @@ Recipe by [The Cafe Sucre Farine](https://thecafesucrefarine.com/best-ever-homem
 - About 1 cup hot water, or more as needed
 - Flour for kneading
 
-# Instructions
+### Instructions
 
 1. Combine the masa and salt in a bowl; stir in the oil. Slowly stream in the water while mixing with your hand or a wooden spoon until the dough comes together into a ball.
 
